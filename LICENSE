@@ -1,0 +1,47 @@
+CERN OPEN HARDWARE LICENCE v2 - STRONGLY RECIPROCAL
+
+1. Preamble
+
+CERN has developed this licence to promote collaboration among hardware designers and to provide a legal framework for the distribution and modification of open hardware designs.
+
+2. Definitions
+
+In this Licence, the following terms have the following meanings:
+
+"Licence" means this CERN Open Hardware Licence.
+
+"Documentation" means schematic diagrams, designs, circuit or circuit board layouts, mechanical drawings, flow charts, descriptive texts and other explanatory material that relates to the Hardware.
+
+"Hardware" means the physical object which is designed using the Documentation and includes any modified versions of the Hardware made by you.
+
+"Source" means the preferred form of the Documentation for making modifications to it, including any documentation stored in electronic form.
+
+"You" means any person exercising rights under this Licence.
+
+3. Licence Grants
+
+3.1 You are granted the right to copy, modify and distribute the Documentation, and make, use, modify and distribute Products, provided that you retain all copyright and licence notices intact and prominently display this Licence on all copies of the Documentation and Products you distribute.
+
+3.2 If you distribute a Product or Documentation, you must provide the complete Source, or make it available where it can be easily accessed by the recipient.
+
+3.3 If you modify the Documentation or the Hardware, and distribute either or both, you must:
+
+a) identify yourself as the modifier;
+b) describe the modifications;
+c) license the modified Documentation and Hardware under this Licence.
+
+4. Warranty and Liability
+
+4.1 The Documentation and Hardware are provided "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability, non-infringement and fitness for a particular purpose are disclaimed.
+
+4.2 CERN shall have no liability under this Licence, regardless of the legal basis.
+
+5. General
+
+5.1 You may not use any name or trademark of CERN to endorse or promote Products derived from this Documentation without express written permission.
+
+5.2 If any provision of this Licence is held invalid, illegal or unenforceable, the remaining provisions shall remain in full force and effect.
+
+5.3 This Licence shall be governed by the laws of Switzerland, and disputes shall be subject to the exclusive jurisdiction of the competent courts of Geneva, Switzerland.
+
+You can obtain the latest version of this licence from https://ohwr.org/cernohl
